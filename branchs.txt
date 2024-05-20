@@ -1,0 +1,1 @@
+As branches principais são a master ou main, para criar uma branch: git checkout -b 'nome'

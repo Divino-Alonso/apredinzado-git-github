@@ -1,0 +1,2 @@
+Meu aprendizado no git: Eu aprendi que o git é um sistema de controle de versões dos códigos.
+Aprendi também sobre o github, uma plataforma de hospedagem.

@@ -1,0 +1,5 @@
+usamos algums comandos para usar o git: 
+git list para listar as configurações
+git init para iniciar o git no diretorio
+git add para adicionar os arquivos para fazer o comite
+para comitar, usamos o git commit -m 'mensagem'

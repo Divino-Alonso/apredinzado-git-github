@@ -1,0 +1,3 @@
+Para instalar o git: $ sudo apt-get install git-all
+Após a instalação, devemos configurar o git: git config --global user.name 'Divino'
+git config --global user.email 'divinoalonso@gmail.com'

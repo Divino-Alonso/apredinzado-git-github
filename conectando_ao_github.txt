@@ -1,0 +1,1 @@
+Para conectar ao github, devemos ter uma conta logada, e criar um diretorio, e fazer o clone para a maquina.
